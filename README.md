@@ -35,3 +35,5 @@ ADC with DMA
 Password Authentication
 
 The user must enter the correct password before the control buttons become available. The GUI sends authentication information to the STM32, which can provide additional feedback through the connected hardware.
+
+📽️Working demo video available on YouTube:https://www.youtube.com/@EllisLearningJourney 
